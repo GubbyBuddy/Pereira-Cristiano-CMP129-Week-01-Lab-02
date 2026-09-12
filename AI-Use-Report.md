@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Cristiano Pereira
+- Week: 2
+- Lab: 2
+- Date: 9/11/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [|] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
